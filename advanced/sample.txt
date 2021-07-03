@@ -1,0 +1,5 @@
+Cell to Singularity is an idle game about evolution, and human civilization, and technology. Start as a single cell organism and progress through the tree of life. Each biological upgrade brings you closer to engulfing an entire planet with a civilization on the brink of technological singularity. Evolution never ends.
+
+Entropy is the first currency in the game, and is used to power biological evolution and grow from species to species. It can be generated from the very start of the game, simply by tapping on the background of any play area. Over time, as you create new life forms (Generators such as DNA and Amino Acids) and Upgrades, more Entropy will be generated both passively from your purchases and from tapping.
+
+Other forms of currency, like Darwinium, can help out a lot when you're low on Entropy. They can trigger Quantum Triggers which can give you extra Entropy, at the cost of 4 Darwinium, and a Time Flux for 3 darwinium.
